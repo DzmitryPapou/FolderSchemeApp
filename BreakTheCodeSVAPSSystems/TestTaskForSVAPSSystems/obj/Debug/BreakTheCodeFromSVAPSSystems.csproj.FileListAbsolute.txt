@@ -1,0 +1,10 @@
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.csprojAssemblyReference.cache
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.Properties.Resources.resources
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.csproj.GenerateResource.cache
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.exe.config
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.exe
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.pdb
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.exe
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.pdb
+C:\Users\Dmitry\Downloads\BreakTheCode-master\BreakTheCodeFromSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.Test.resources

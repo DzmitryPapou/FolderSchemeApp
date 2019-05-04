@@ -1,0 +1,10 @@
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.exe.config
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.exe
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\bin\Debug\BreakTheCodeFromSVAPSSystems.pdb
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\TestTaskForSVAPSSystems.csprojAssemblyReference.cache
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\TestTaskForSVAPSSystems.Test.resources
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.Properties.Resources.resources
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\TestTaskForSVAPSSystems.csproj.GenerateResource.cache
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\TestTaskForSVAPSSystems.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.exe
+C:\Users\Dmitry\Source\Repos\BreakTheCodeSVAPSSystems\TestTaskForSVAPSSystems\obj\Debug\BreakTheCodeFromSVAPSSystems.pdb
