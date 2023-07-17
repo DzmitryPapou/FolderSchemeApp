@@ -1,4 +1,5 @@
-# SVAPSSystems
+# FolderSchemeApp
+Test task for SVAPSSystems.
 
 Develop	a	C#	application	that:
 •  Parses	the	supplied	XML	file	(Beerpack.xml)	and	loads	it	into	an	object	model
